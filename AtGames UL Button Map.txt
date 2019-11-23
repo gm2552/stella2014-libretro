@@ -1,0 +1,8 @@
+RetroPad Button Mapping to AtGames Button.  This are the indexes 
+listed in the libretor.h file.
+
+BOTTOM_LEFT
+BOTTOM_MIDDLE  0
+BOTTOM_RIGHT   8
+
+TOP_LEFT 2
